@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Skye / Science Enthusiast"
+title                    : "A Science Enthusiast"
 title_separator          : "-"
 name                     : &name "Skye"
 description              : &description "Soul programmer & Science enthusiast"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "SkyeZX2017"
   vine             :
   weibo            :
   xing             :
