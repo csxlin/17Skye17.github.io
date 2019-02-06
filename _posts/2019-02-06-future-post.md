@@ -6,7 +6,7 @@ tags:
   - 2019
 ---
 
-有两种东西，我们越是经常、持续地对它们反复思考，它们就总是以时时翻新、有增无已赞叹和敬畏充满我们的心灵：这就是在我之上的星空，居我心中的道德法则。
+有两种东西,我对它们的思考越是深沉和持久,它们在我心灵中唤起的惊奇和敬畏就会日新月异,不断增长,这就是我头上的星空和心中的道德定律。
                                                                                                                 ———— 康德
 
 When we design a skyscraper we expect it will perform to specification: that the tower will support so much weight and be able to withstand an earthquake of a certain strength.
@@ -16,7 +16,7 @@ But with one of the most important technologies of the modern world, we’re eff
 This technology is the neural network, which underpins today’s most advanced artificial intelligence systems. Increasingly, neural networks are moving into the core areas of society: They determine what we learn of the world through our social media feeds, they help doctors diagnose illnesses, and they even influence whether a person convicted of a crime will spend time in jail.
 
 Yet “the best approximation to what we know is that we know almost nothing about how neural networks actually work and what a really insightful theory would be,” said Boris Hanin, a mathematician at Texas A&M University and a visiting scientist at Facebook AI Research who studies neural networks.
-
+有
 He likens the situation to the development of another revolutionary technology: the steam engine. At first, steam engines weren’t good for much more than pumping water. Then they powered trains, which is maybe the level of sophistication neural networks have reached. Then scientists and mathematicians developed a theory of thermodynamics, which let them understand exactly what was going on inside engines of any kind. Eventually, that knowledge took us to the moon.
 
 “First you had great engineering, and you had some great trains, then you needed some theoretical understanding to go to rocket ships,” Hanin said.
