@@ -9,6 +9,8 @@ tags:
 有两种东西,我对它们的思考越是深沉和持久,它们在我心灵中唤起的惊奇和敬畏就会日新月异,不断增长,这就是我头上的星空和心中的道德定律。
                                                                                                                 ———— 康德
 
+
+# Foundations Built For A General Theory Of Neural Networks
 When we design a skyscraper we expect it will perform to specification: that the tower will support so much weight and be able to withstand an earthquake of a certain strength.
 
 But with one of the most important technologies of the modern world, we’re effectively building blind. We play with different designs, tinker with different setups, but until we take it out for a test run, we don’t really know what it can do or where it will fail.
@@ -80,3 +82,6 @@ More specifically, Johnson showed that if the width-to-variable ratio is off, th
 Papers like Johnson’s are beginning to build the rudiments of a theory of neural networks. At the moment, researchers can make only very basic claims about the relationship between architecture and function — and those claims are in small proportion to the number of tasks neural networks are taking on.
 
 So while the theory of neural networks isn’t going to change the way systems are built anytime soon, the blueprints are being drafted for a new theory of how computers learn — one that’s poised to take humanity on a ride with even greater repercussions than a trip to the moon.
+
+# Ref
+https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/
