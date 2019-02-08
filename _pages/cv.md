@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* To be add
+* TBA
 
 Work experience
 ======
-* To be add
+* TBA
   
 Skills
 ======
-* To be add
+* TBA
 
 Publications
 ======
-* To be add
+* TBA
   
 Talks
 ======
-* To be add
+* TBA
   
 Teaching
 ======
-* To be add
+* TBA
   
 Service and leadership
 ======
-* To be add
+* TBA
