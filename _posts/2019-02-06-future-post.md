@@ -83,5 +83,5 @@ Papers like Johnson’s are beginning to build the rudiments of a theory of neur
 
 So while the theory of neural networks isn’t going to change the way systems are built anytime soon, the blueprints are being drafted for a new theory of how computers learn — one that’s poised to take humanity on a ride with even greater repercussions than a trip to the moon.
 
-# Ref
-https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/
+## Ref
+[https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/](https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/)
