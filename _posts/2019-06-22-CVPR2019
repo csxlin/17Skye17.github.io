@@ -8,7 +8,7 @@ tags:
 
 继续扫文...
 
-+ **Semantics Distangling for Text-to-Image Generation**(王晓刚商汤组)
++ **Semantics Distangling for Text-to-Image Generation**(王晓刚商汤组) :star::star::star:
 
 提出SD-GAN，大致架构是siamese＋sequential stacked generatror-discriminator modules（其组里之前１７年两篇工作都用了），
 用contrastive loss，目的是缩小同一图片两个不同描述生成的图片差异，增大不同图片的差异。
@@ -24,3 +24,13 @@ sentence cues加了一个将输入进行MLP变换的操作，word cues将word和
 
 **Experimental Results**:实验结果inception score在CUB和MS-COCO上大幅超过了其组里之前的AttnGAN和StackGAN。实验结果表明SCBN植入到其他网络例如
 AttnGAN中能够带来明显的性能增益。
+
++ **Inserting Videos into Videos**(Ming-Husan Yang组)
+
+看起来很有意思的一篇文章，将一个视频中的物体植入到另一个视频当中，直观效果不错，首先能够想到的方法是先做分割。（又是一个新坑？...）
+
+具体方法感兴趣再看，实验结果通过YOLOv3看能否检测到合成的视频中被正确植入了物体，用到一些person re-id的数据集，结果表明该提出的方法precision和recall
+值高出现有算法10%左右，合成效果明显优于现有的分割算法DeepLabv3+（tensorflow group）。
+
++ **STEP: Spatio-Temporal Progressive Learning for Video Action Detection** (Larry Davis组)
+
