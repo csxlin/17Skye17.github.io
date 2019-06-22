@@ -8,3 +8,15 @@ tags:
 
 继续扫文...
 
++ **Semantics Distangling for Text-to-Image Generation**(王晓刚商汤组)
+
+提出SD-GAN，大致架构是siamese＋sequential stacked generatror-discriminator modules（其组里之前１７年两篇工作都用了），
+用contrastive loss，目的是缩小同一图片两个不同描述生成的图片差异，增大不同图片的差异。
+
+其组里做的AttnGAN和StackGAN处理细粒度的text2img比较成功，但是处理文字表达的多样性还是一个challenge。
+
+**Text Encoder**: 用一个BiLSTM，取最后一个hidden layer的输出作为text的feature vector
+
+**Contrastive loss**: 在普通的contrastive loss上改了一个当y=1时，让d尽量接近alpha而不是０，防止模式坍缩
+
+**Semantic-Conditioned Batch  Normalization(SCBN)**:　
