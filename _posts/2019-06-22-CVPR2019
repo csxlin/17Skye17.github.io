@@ -19,4 +19,8 @@ tags:
 
 **Contrastive loss**: 在普通的contrastive loss上改了一个当y=1时，让d尽量接近alpha而不是０，防止模式坍缩
 
-**Semantic-Conditioned Batch  Normalization(SCBN)**:　
+**Semantic-Conditioned Batch  Normalization(SCBN)**:　在原始的Conditional Batch Norm(CBN ICLR2017)上加入了sentence cues和word cues，
+sentence cues加了一个将输入进行MLP变换的操作，word cues将word和视觉特征之间通过MLP关联，得到的semantic feature vector输入到原始的CBN中。
+
+**Experimental Results**:实验结果inception score在CUB和MS-COCO上大幅超过了其组里之前的AttnGAN和StackGAN。实验结果表明SCBN植入到其他网络例如
+AttnGAN中能够带来明显的性能增益。
